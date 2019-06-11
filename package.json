@@ -1,0 +1,9 @@
+{
+  "name": "js-7ikou1",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "less": "^3.9.0",
+    "vue": "^2.6.10"
+  }
+}
